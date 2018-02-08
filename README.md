@@ -1,2 +1,2 @@
-# Deep Reinforcement Learning for Stock Trading
-# UC Berkeley CS 294-112
+# Stock Trading with Deep Reinforcement Learning
+  UC Berkeley CS 294-112
